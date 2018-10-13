@@ -1,0 +1,14 @@
+br\edu\ifpb\api\ResourceMQTT$1.class
+br\edu\ifpb\restmqtt\Publish.class
+br\edu\ifpb\restmqtt\Client.class
+br\edu\ifpb\controlador\ControladorMQTT.class
+br\edu\ifpb\api\ResourceMQTT$2.class
+br\edu\ifpb\api\ApplicationConfig.class
+br\edu\ifpb\api\ResourceMQTT.class
+br\edu\ifpb\restmqtt\program$1.class
+br\edu\ifpb\restmqtt\rest\ClientRest.class
+br\edu\ifpb\restmqtt\service\ServiceMQTT.class
+br\edu\ifpb\restmqtt\rest\ClientRest$1.class
+br\edu\ifpb\restmqtt\program.class
+br\edu\ifpb\restmqtt\rest\ClientRest$2.class
+br\edu\ifpb\restmqtt\Sensor.class
